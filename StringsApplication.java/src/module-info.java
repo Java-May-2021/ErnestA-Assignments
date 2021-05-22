@@ -1,0 +1,2 @@
+module StringsApplication.java {
+}
